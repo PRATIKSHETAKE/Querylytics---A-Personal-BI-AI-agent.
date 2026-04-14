@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+/* Deep Teal & Orange Theme */
+.markdown-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1rem 0;
+  background: #0a2e2e;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #134e4e;
+}
+
+.markdown-content th {
+  background-color: #f97316; /* Orange Header */
+  color: white;
+  font-weight: 700;
+  text-align: left;
+  padding: 12px 15px;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+}
+
+.markdown-content td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #134e4e;
+  color: #ccf2f2;
+}
+
+.markdown-content strong { color: #f97316; font-weight: 800; }
+.markdown-content ul { list-style: disc; padding-left: 1.5rem; margin: 1rem 0; color: #ccf2f2; }
