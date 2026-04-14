@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+polar
+stasmodel
+scipy
+openpyxl
+plotly
+langchain
+langchain-google-genai>=4.2.1
+langchain_community
+langchain-chroma
+google-genai>=1.0.0
+chromadb
+python-dotenv
+sql-alchemy
