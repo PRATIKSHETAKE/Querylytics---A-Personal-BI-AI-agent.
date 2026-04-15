@@ -1,14 +1,14 @@
 # 📊 Querylytics: AI-Powered Private Data Analyst
 
 <p align="center">
-  <img src="assets/Screenshot (15).jpg" width="48%" alt="Querylytics Gallery View">
-  <img src="assets/Screenshot (16).jpg" width="48%" alt="Querylytics Gallery View">
-  <img src="assets/Screenshot (17).jpg" width="48%" alt="Querylytics Gallery View">
-  <img src="assets/Screenshot (18).jpg" width="48%" alt="Querylytics Gallery View">
-  <img src="assets/Screenshot (19).jpg" width="48%" alt="Querylytics Gallery View">
-  <img src="assets/Screenshot (20).jpg" width="48%" alt="Querylytics Gallery View">
-  <img src="assets/Screenshot (21).jpg" width="48%" alt="Querylytics Gallery View">
-  <img src="assets/Screenshot (22).jpg" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (15).png" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (16).png" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (17).png" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (18).png" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (19).png" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (20).png" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (21).png" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (22).png" width="48%" alt="Querylytics Gallery View">
 </p>
 <p align="center">
   <em>Upload datasets, ask questions in plain English, and instantly generate interactive insights.</em>
