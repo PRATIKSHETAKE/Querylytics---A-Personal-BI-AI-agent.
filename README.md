@@ -1,5 +1,19 @@
 # 📊 Querylytics: AI-Powered Private Data Analyst
 
+<p align="center">
+  <img src="assets/Screenshot (15).jpg" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (16).jpg" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (17).jpg" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (18).jpg" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (19).jpg" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (20).jpg" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (21).jpg" width="48%" alt="Querylytics Gallery View">
+  <img src="assets/Screenshot (22).jpg" width="48%" alt="Querylytics Gallery View">
+</p>
+<p align="center">
+  <em>Upload datasets, ask questions in plain English, and instantly generate interactive insights.</em>
+</p>
+
 ## 🌟 Project Summary
 Querylytics is a highly secure, AI-driven data analysis platform built with a strict **3-Tier Architecture**. It allows users to upload raw datasets (CSV/Excel) and interact with them using natural language. Instead of sending sensitive data rows to an LLM, the system securely passes only the dataset schema to a Large Language Model (Google Gemini). The LLM acts as an autonomous data scientist, generating raw Python code (Pandas & Plotly) which is then executed safely on the local backend. The resulting insights and interactive WebGL charts are seamlessly streamed back to the React frontend.
 
